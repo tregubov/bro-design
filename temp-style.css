@@ -148,7 +148,7 @@ textarea {resize: none;}
 @media (min-width: 1400px) {
   /* Top Navbar */
 
-  .c-container-navbar {padding-right: 60px; padding-left: 60px;}
+  .c-container-navbar {padding-right: 100px; padding-left: 100px;}
 
   /* Home Page */
   .container {max-width: 1140px;} 
@@ -174,7 +174,7 @@ textarea {resize: none;}
 @media (min-width: 1600px) {
   /* Top Navbar */
 
-  .c-container-navbar {padding-right: 100px; padding-left: 100px;}
+  .c-container-navbar {padding-right: 60px; padding-left: 60px;}
 
   /* Home Page */
 
