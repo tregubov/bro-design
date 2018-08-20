@@ -250,7 +250,7 @@ textarea {
     .blog-item.parent {width: 100%!important;}
 }
 
-@media (max-width: 1048px) {
+@media (max-width: 1049px) {
     .navbar-logo__img-normal {
         max-width: 185px;
     }
