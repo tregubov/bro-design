@@ -252,7 +252,14 @@ textarea {
 
 @media (max-width: 1048px) {
     .navbar-logo__img-normal {
-        max-width: 200px;
+        max-width: 185px;
+    }
+    .navbar-link {
+        padding: 11px 12px 8px 12px;
+        font-size: 12px;
+    }
+    .button-outline.button-outline__navbar {
+        width: 100px;
     }
 }
 
